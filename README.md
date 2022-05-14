@@ -12,9 +12,9 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://Eddiediaz58.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by [Eddie Diaz]
 
 ### ©️2019 Run Buddy, Inc 
